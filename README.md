@@ -14,6 +14,8 @@ Most data visualization for traders is built using JPMorgan Chase's Perspective 
 - Set up a virtual environment using the command:
   ```sh
   python3 -m venv venv
+  git commit ...
+  git format-patch -1 HEAD
 
 For the first task of this project you will need to accomplish the following:
 
