@@ -6,6 +6,11 @@ You have been tasked with adding a chart to a trader's dashboard to help them id
 
 Most data visualization for traders is built using JPMorgan Chase's Perspective data visualization software. This task involves interfacing with the relevant financial data feed and making adjustments to monitor potential trade opportunities.
 
+- Bid Price: Highest price a buyer is willing to pay.
+- Ask Price: Lowest price a seller is willing to accept.
+- Price: Average of bid and ask prices, representing a mid-market price.
+- Top Bid (Highest Bid Price): Reflects the highest price buyers are willing to pay.
+- Top Ask (Lowest Ask Price): Reflects the lowest price sellers are willing to accept.
 ## Task Instructions
 
 ### 1. Set Up Your Local Development Environment
